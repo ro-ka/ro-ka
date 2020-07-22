@@ -4,7 +4,7 @@
   <br>
   <br>
   <a href="https://robert.katzki.de/">
-    <img src="https://raw.githubusercontent.com/ro-ka/ro-ka/master/logo.png" alt="Roka">
+    <img width="140" src="https://github.com/ro-ka/ro-ka/blob/master/logo.svg" alt="Roka">
   </a>
   <br>
   <h3>Hi, I’m Robert, a web developer & photographer. 👋</h3>
