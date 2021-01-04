@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [White Christmas](https://robert.katzki.de/photos/2020/white-christmas)
 - [Karuna Wallet](https://robert.katzki.de/projects/karuna-wallet)
 - [Besenhorst](https://robert.katzki.de/photos/2020/besenhorst)
 - [A Like Can’t Go Anywhere, But a Compliment Can Go a Long Way](https://robert.katzki.de/posts/a-like-can-t-go-anywhere-but-a-compliment-can-go-a-long-way)
 - [Hello Sublime Text, my old friend](https://robert.katzki.de/posts/hello-sublime-text-my-old-friend)
-- [Fischland](https://robert.katzki.de/photos/2020/fischland)
 <!-- BLOG-POST-LIST:END -->
