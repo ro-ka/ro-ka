@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Amrum](https://robert.katzki.de/photos/2021/amrum)
 - [Oberhaverbeck](https://robert.katzki.de/photos/2021/oberhaverbeck)
 - [How to Make Wind Power Sustainable Again](https://robert.katzki.de/posts/how-to-make-wind-power-sustainable-again)
 - [Totengrund](https://robert.katzki.de/photos/2021/totengrund)
-- [White Christmas](https://robert.katzki.de/photos/2020/white-christmas)
 - [Karuna Wallet](https://robert.katzki.de/projects/karuna-wallet)
 <!-- BLOG-POST-LIST:END -->
