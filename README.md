@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Winter Morning](https://robert.katzki.de/photos/2021/winter-morning)
 - [Fischkopp](https://robert.katzki.de/photos/2021/fischkopp)
 - [Bavarian Alps](https://robert.katzki.de/photos/2021/bavarian-alps)
 - [Amrum](https://robert.katzki.de/photos/2021/amrum)
 - [Oberhaverbeck](https://robert.katzki.de/photos/2021/oberhaverbeck)
-- [How to Make Wind Power Sustainable Again](https://robert.katzki.de/posts/how-to-make-wind-power-sustainable-again)
 <!-- BLOG-POST-LIST:END -->
