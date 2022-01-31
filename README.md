@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Rare Earths](https://robert.katzki.de/photos/2022/rare-earths)
 - [Winter Morning](https://robert.katzki.de/photos/2021/winter-morning)
 - [Fischkopp](https://robert.katzki.de/photos/2021/fischkopp)
 - [Bavarian Alps](https://robert.katzki.de/photos/2021/bavarian-alps)
 - [Amrum](https://robert.katzki.de/photos/2021/amrum)
-- [Oberhaverbeck](https://robert.katzki.de/photos/2021/oberhaverbeck)
 <!-- BLOG-POST-LIST:END -->
