@@ -17,7 +17,7 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
-- [Marid &amp; Toledo](https://robert.katzki.de/photos/2022/marid-toledo)
+- [Madrid &amp; Toledo](https://robert.katzki.de/photos/2022/marid-toledo)
 - [So Much Snow](https://robert.katzki.de/photos/2022/so-much-snow)
 - [Ice](https://robert.katzki.de/photos/2022/ice)
 - [Rare Earths](https://robert.katzki.de/photos/2022/rare-earths)
