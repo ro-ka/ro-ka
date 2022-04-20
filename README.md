@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Easter &lpar;on an&rpar; Island](https://robert.katzki.de/photos/2022/easter-on-an-island)
 - [Madrid &amp; Toledo](https://robert.katzki.de/photos/2022/marid-toledo)
 - [So Much Snow](https://robert.katzki.de/photos/2022/so-much-snow)
 - [Ice](https://robert.katzki.de/photos/2022/ice)
 - [Rare Earths](https://robert.katzki.de/photos/2022/rare-earths)
-- [How to Make Wind Power Sustainable Again](https://robert.katzki.de/posts/how-to-make-wind-power-sustainable-again)
 <!-- BLOG-POST-LIST:END -->
