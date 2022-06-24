@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Self-made buns](https://robert.katzki.de/posts/buns)
 - [Surfskate, two years later](https://robert.katzki.de/posts/surfskate-two-years-later)
 - [Building a Longboard](https://robert.katzki.de/posts/building-a-longboard)
 - [Featured in an Exhibition](https://robert.katzki.de/posts/featured-in-an-exhibition)
 - [Easter &lpar;on an&rpar; Island](https://robert.katzki.de/photos/2022/easter-on-an-island)
-- [Madrid &amp; Toledo](https://robert.katzki.de/photos/2022/marid-toledo)
 <!-- BLOG-POST-LIST:END -->
