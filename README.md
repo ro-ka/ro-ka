@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Volksdorf](https://robert.katzki.de/photos/2022/volksdorf)
 - [Pommes sind okay](https://robert.katzki.de/photos/2022/pommes-sind-okay)
 - [Slovenia](https://robert.katzki.de/photos/2022/slovenia)
 - [A Big Mistake](https://robert.katzki.de/posts/a-big-mistake)
 - [Self-made buns](https://robert.katzki.de/posts/buns)
-- [Surfskate, two years later](https://robert.katzki.de/posts/surfskate-two-years-later)
 <!-- BLOG-POST-LIST:END -->
