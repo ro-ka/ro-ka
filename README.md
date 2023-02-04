@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Unselfing Social](https://robert.katzki.de/posts/unselfing-social)
 - [Lego Duplo Train Remote](https://robert.katzki.de/projects/lego-duplo-train-remote)
 - [Volksdorf](https://robert.katzki.de/photos/2022/volksdorf)
 - [Pommes sind okay](https://robert.katzki.de/photos/2022/pommes-sind-okay)
 - [Slovenia](https://robert.katzki.de/photos/2022/slovenia)
-- [A Big Mistake](https://robert.katzki.de/posts/a-big-mistake)
 <!-- BLOG-POST-LIST:END -->
