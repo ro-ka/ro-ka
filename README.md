@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Stanton](https://robert.katzki.de/photos/2023/stanton)
 - [Bing &amp; ChatGPT](https://robert.katzki.de/posts/bing-chatgpt)
 - [Burned](https://robert.katzki.de/photos/2023/burned)
 - [Unselfing Social](https://robert.katzki.de/posts/unselfing-social)
 - [Lego Duplo Train Remote](https://robert.katzki.de/projects/lego-duplo-train-remote)
-- [Volksdorf](https://robert.katzki.de/photos/2022/volksdorf)
 <!-- BLOG-POST-LIST:END -->
