@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Verona](https://robert.katzki.de/photos/2023/verona)
 - [Innsbruck](https://robert.katzki.de/photos/2023/innsbruck)
 - [Climate Jets](https://robert.katzki.de/posts/climate-jets)
 - [eBook reader – a new Era](https://robert.katzki.de/posts/ebook-reader-a-new-era)
 - [Stanton](https://robert.katzki.de/photos/2023/stanton)
-- [Bing &amp; ChatGPT](https://robert.katzki.de/posts/bing-chatgpt)
 <!-- BLOG-POST-LIST:END -->
