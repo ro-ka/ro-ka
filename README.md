@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Ljunghusen &amp; Skanör](https://robert.katzki.de/photos/2023/ljunghusen-skanor)
 - [Constructive Feedback](https://robert.katzki.de/posts/constructive-feedback)
 - [Limfjord](https://robert.katzki.de/photos/2023/limfjord)
 - [Building a modern design system in layers](https://robert.katzki.de/posts/building-a-modern-design-system-in-layers)
 - [Fischbeker Heide](https://robert.katzki.de/photos/2023/fischbeker-heide)
-- [Emoji Lists, The Good Way?](https://robert.katzki.de/posts/emoji-lists-the-good-way)
 <!-- BLOG-POST-LIST:END -->
