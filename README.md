@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Orranäsasjön](https://robert.katzki.de/photos/2023/orranasasjon)
 - [Malmö](https://robert.katzki.de/photos/2023/malmo)
 - [Ljunghusen &amp; Skanör](https://robert.katzki.de/photos/2023/ljunghusen-skanor)
 - [Constructive Feedback](https://robert.katzki.de/posts/constructive-feedback)
 - [Limfjord](https://robert.katzki.de/photos/2023/limfjord)
-- [Building a modern design system in layers](https://robert.katzki.de/posts/building-a-modern-design-system-in-layers)
 <!-- BLOG-POST-LIST:END -->
