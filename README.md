@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Featured on priints](https://robert.katzki.de/posts/featured-on-priints)
 - [Do something, so we can change it!](https://robert.katzki.de/posts/do-something-so-we-can-change-it)
 - [Orranäsasjön](https://robert.katzki.de/photos/2023/orranasasjon)
 - [Malmö](https://robert.katzki.de/photos/2023/malmo)
 - [Ljunghusen &amp; Skanör](https://robert.katzki.de/photos/2023/ljunghusen-skanor)
-- [Constructive Feedback](https://robert.katzki.de/posts/constructive-feedback)
 <!-- BLOG-POST-LIST:END -->
