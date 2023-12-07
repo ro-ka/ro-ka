@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Early Winter](https://robert.katzki.de/photos/2023/early-winter)
 - [Fehmarn](https://robert.katzki.de/photos/2023/fehmarn)
 - [Dresden &amp; Meißen](https://robert.katzki.de/photos/2023/dresden-meissen)
 - [Thoughts on AI coding](https://robert.katzki.de/posts/thoughts-on-ai-coding)
 - [Featured on priints](https://robert.katzki.de/posts/featured-on-priints)
-- [Do something, so we can change it!](https://robert.katzki.de/posts/do-something-so-we-can-change-it)
 <!-- BLOG-POST-LIST:END -->
