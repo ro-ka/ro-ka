@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Letting go. Goodbye Floorball!](https://robert.katzki.de/posts/letting-go-goodbye-floorball)
 - [Apple Vision Pro](https://robert.katzki.de/posts/apple-vision-pro)
 - [Early Winter](https://robert.katzki.de/photos/2023/early-winter)
 - [Fehmarn](https://robert.katzki.de/photos/2023/fehmarn)
 - [Dresden &amp; Meißen](https://robert.katzki.de/photos/2023/dresden-meissen)
-- [Thoughts on AI coding](https://robert.katzki.de/posts/thoughts-on-ai-coding)
 <!-- BLOG-POST-LIST:END -->
