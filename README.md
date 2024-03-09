@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [The quiet, pervasive devaluation of frontend](https://robert.katzki.de/posts/the-quiet-pervasive-devaluation-of-frontend)
 - [What Is A Single-page Application?](https://robert.katzki.de/posts/what-is-a-single-page-application)
 - [Color Waves](https://robert.katzki.de/photos/2024/color-waves)
 - [Letting go. Goodbye Floorball!](https://robert.katzki.de/posts/letting-go-goodbye-floorball)
 - [Apple Vision Pro](https://robert.katzki.de/posts/apple-vision-pro)
-- [Early Winter](https://robert.katzki.de/photos/2023/early-winter)
 <!-- BLOG-POST-LIST:END -->
