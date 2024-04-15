@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [A day at the Baltic Sea](https://robert.katzki.de/photos/2024/a-day-at-the-baltic-sea)
 - [Kuhmühlenteich](https://robert.katzki.de/photos/2024/kuhmuhlenteich)
 - [Are We Watching The Internet Die?](https://robert.katzki.de/posts/are-we-watching-the-internet-die)
 - [The quiet, pervasive devaluation of frontend](https://robert.katzki.de/posts/the-quiet-pervasive-devaluation-of-frontend)
 - [What Is A Single-page Application?](https://robert.katzki.de/posts/what-is-a-single-page-application)
-- [Color Waves](https://robert.katzki.de/photos/2024/color-waves)
 <!-- BLOG-POST-LIST:END -->
