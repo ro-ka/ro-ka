@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Hafencity](https://robert.katzki.de/photos/2024/hafencity)
 - [Morning Commute](https://robert.katzki.de/photos/2024/morning-commute)
 - [Reeperbahn Reflections](https://robert.katzki.de/photos/2024/reeperbahn-reflections)
 - [A day at the Baltic Sea](https://robert.katzki.de/photos/2024/a-day-at-the-baltic-sea)
 - [Kuhmühlenteich](https://robert.katzki.de/photos/2024/kuhmuhlenteich)
-- [Are We Watching The Internet Die?](https://robert.katzki.de/posts/are-we-watching-the-internet-die)
 <!-- BLOG-POST-LIST:END -->
