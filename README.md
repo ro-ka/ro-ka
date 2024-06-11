@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Stadtpark Jungle](https://robert.katzki.de/photos/2024/stadtpark-jungle)
 - [Aalborg](https://robert.katzki.de/photos/2024/aalborg)
 - [Fur Island](https://robert.katzki.de/photos/2024/fur-island)
 - [Lundø](https://robert.katzki.de/photos/2024/lundo)
 - [Golden Oldtimer](https://robert.katzki.de/photos/2024/golden-oldtimer)
-- [Hafengeburtstag](https://robert.katzki.de/photos/2024/hafengeburtstag)
 <!-- BLOG-POST-LIST:END -->
