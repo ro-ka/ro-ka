@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Comfortable with the struggle](https://robert.katzki.de/posts/comfortable-with-the-struggle)
 - [Rosa Rose](https://robert.katzki.de/photos/2024/rosa-rose)
 - [Elbphilharmonie](https://robert.katzki.de/photos/2024/elbphilharmonie)
 - [Fujifilm](https://robert.katzki.de/posts/fujifilm)
 - [Stadtpark Jungle](https://robert.katzki.de/photos/2024/stadtpark-jungle)
-- [Aalborg](https://robert.katzki.de/photos/2024/aalborg)
 <!-- BLOG-POST-LIST:END -->
