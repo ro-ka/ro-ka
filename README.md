@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Night Sky](https://robert.katzki.de/photos/2024/night-sky)
 - [Berlin](https://robert.katzki.de/photos/2024/berlin)
 - [Summer Days](https://robert.katzki.de/photos/2024/summer-days)
 - [Comfortable with the struggle](https://robert.katzki.de/posts/comfortable-with-the-struggle)
 - [Rosa Rose](https://robert.katzki.de/photos/2024/rosa-rose)
-- [Elbphilharmonie](https://robert.katzki.de/photos/2024/elbphilharmonie)
 <!-- BLOG-POST-LIST:END -->
