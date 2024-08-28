@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Plage du Santana](https://robert.katzki.de/photos/2024/plage-du-santana)
 - [Vico](https://robert.katzki.de/photos/2024/vico)
 - [Plage de Menasina](https://robert.katzki.de/photos/2024/plage-de-menasina)
 - [Casaglione](https://robert.katzki.de/photos/2024/casaglione)
 - [Plage du Liamone](https://robert.katzki.de/photos/2024/plage-du-liamone)
-- [Calanques de Piana](https://robert.katzki.de/photos/2024/calanques-de-piana)
 <!-- BLOG-POST-LIST:END -->
