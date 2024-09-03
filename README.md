@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Saint-Florent](https://robert.katzki.de/photos/2024/saint-florent)
 - [Vescovato](https://robert.katzki.de/photos/2024/vescovato)
 - [Bastia](https://robert.katzki.de/photos/2024/bastia)
 - [Rivière du Vecchio](https://robert.katzki.de/photos/2024/riviere-du-vecchio)
 - [Plage du Santana](https://robert.katzki.de/photos/2024/plage-du-santana)
-- [Vico](https://robert.katzki.de/photos/2024/vico)
 <!-- BLOG-POST-LIST:END -->
