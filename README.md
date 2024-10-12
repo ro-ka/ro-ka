@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Kollmar, Elbe](https://robert.katzki.de/photos/2024/kollmar-elbe)
 - [Garden of butterflies](https://robert.katzki.de/photos/2024/garden-of-butterflies)
 - [Glass – Photography Community](https://robert.katzki.de/posts/glass-photography-community)
 - [Tomorrow Account Overview](https://robert.katzki.de/projects/tomorrow-account-overview)
 - [Strolling through Hamburg](https://robert.katzki.de/photos/2024/strolling-through-hamburg)
-- [Harz](https://robert.katzki.de/photos/2024/harz)
 <!-- BLOG-POST-LIST:END -->
