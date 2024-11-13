@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Tellerrand 2024 Berlin](https://robert.katzki.de/posts/beyond-tellerrand-2024-berlin)
 - [Hiking Harz](https://robert.katzki.de/photos/2024/hiking-harz)
 - [It’s the end of the world as we know it.](https://robert.katzki.de/posts/it-s-the-end-of-the-world-as-we-know-it)
 - [First Light](https://robert.katzki.de/photos/2024/first-light)
 - [Kollmar, Elbe](https://robert.katzki.de/photos/2024/kollmar-elbe)
-- [Garden of butterflies](https://robert.katzki.de/photos/2024/garden-of-butterflies)
 <!-- BLOG-POST-LIST:END -->
