@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [In Halle &amp; Leipzig](https://robert.katzki.de/photos/2024/in-halle-leipzig)
 - [Streets of Berlin](https://robert.katzki.de/photos/2024/streets-of-berlin)
 - [Beyond Tellerrand 2024 Berlin](https://robert.katzki.de/posts/beyond-tellerrand-2024-berlin)
 - [Hiking Harz](https://robert.katzki.de/photos/2024/hiking-harz)
 - [It’s the end of the world as we know it.](https://robert.katzki.de/posts/it-s-the-end-of-the-world-as-we-know-it)
-- [First Light](https://robert.katzki.de/photos/2024/first-light)
 <!-- BLOG-POST-LIST:END -->
