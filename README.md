@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
-- [Harbour Ferry Trip](https://robert.katzki.de/photos/2024/harbour-ferry-trip)
-- [In Halle &amp; Leipzig](https://robert.katzki.de/photos/2024/in-halle-leipzig)
-- [Streets of Berlin](https://robert.katzki.de/photos/2024/streets-of-berlin)
-- [Beyond Tellerrand 2024 Berlin](https://robert.katzki.de/posts/beyond-tellerrand-2024-berlin)
-- [Hiking Harz](https://robert.katzki.de/photos/2024/hiking-harz)
+- [Sudden Snow](https://robert.katzki.de/photos/2025/sudden-snow)
+- [Sun &amp; Trees](https://robert.katzki.de/photos/2025/sun-trees)
+- [Branches](https://robert.katzki.de/photos/2025/branches)
+- [Stars and planets](https://robert.katzki.de/photos/2025/stars-and-planets)
+- [White Post-Christmas](https://robert.katzki.de/photos/2025/white-post-christmas)
 <!-- BLOG-POST-LIST:END -->
