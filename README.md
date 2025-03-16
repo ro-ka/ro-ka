@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Out @ Night](https://robert.katzki.de/photos/2025/out-night)
 - [Fischbeker Heide](https://robert.katzki.de/photos/2025/fischbeker-heide)
 - [Sudden Snow](https://robert.katzki.de/photos/2025/sudden-snow)
 - [Sun &amp; Trees](https://robert.katzki.de/photos/2025/sun-trees)
 - [Branches](https://robert.katzki.de/photos/2025/branches)
-- [Stars and planets](https://robert.katzki.de/photos/2025/stars-and-planets)
 <!-- BLOG-POST-LIST:END -->
