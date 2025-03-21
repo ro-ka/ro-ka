@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [The Bench](https://robert.katzki.de/photos/2025/the-bench)
 - [Pharmacy](https://robert.katzki.de/photos/2025/pharmacy)
 - [Den Blå Planet](https://robert.katzki.de/photos/2025/den-bla-planet)
 - [Out @ Night](https://robert.katzki.de/photos/2025/out-night)
 - [Fischbeker Heide](https://robert.katzki.de/photos/2025/fischbeker-heide)
-- [Sudden Snow](https://robert.katzki.de/photos/2025/sudden-snow)
 <!-- BLOG-POST-LIST:END -->
