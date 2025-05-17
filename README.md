@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Marshmallows](https://robert.katzki.de/photos/2025/marshmallows)
 - [Copenhagen](https://robert.katzki.de/photos/2025/copenhagen)
 - [Lonely Heart](https://robert.katzki.de/photos/2025/lonely-heart)
 - [The Bench](https://robert.katzki.de/photos/2025/the-bench)
 - [Pharmacy](https://robert.katzki.de/photos/2025/pharmacy)
-- [Den Blå Planet](https://robert.katzki.de/photos/2025/den-bla-planet)
 <!-- BLOG-POST-LIST:END -->
