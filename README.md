@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Human History](https://robert.katzki.de/photos/2025/human-history)
 - [Hafengeburtstag Hamburg](https://robert.katzki.de/photos/2025/hafengeburtstag-hamburg)
 - [Black Cat](https://robert.katzki.de/photos/2025/black-cat)
 - [Lüneburger Heide](https://robert.katzki.de/photos/2025/luneburger-heide)
 - [Marshmallows](https://robert.katzki.de/photos/2025/marshmallows)
-- [Copenhagen](https://robert.katzki.de/photos/2025/copenhagen)
 <!-- BLOG-POST-LIST:END -->
