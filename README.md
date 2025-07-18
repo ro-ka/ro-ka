@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Blue Door](https://robert.katzki.de/photos/2025/blue-door)
 - [Bleilochtalsperre](https://robert.katzki.de/photos/2025/bleilochtalsperre)
 - [Wildpark](https://robert.katzki.de/photos/2025/wildpark)
 - [Human History](https://robert.katzki.de/photos/2025/human-history)
 - [Hafengeburtstag Hamburg](https://robert.katzki.de/photos/2025/hafengeburtstag-hamburg)
-- [Black Cat](https://robert.katzki.de/photos/2025/black-cat)
 <!-- BLOG-POST-LIST:END -->
