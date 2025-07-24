@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Nationalpark Thy](https://robert.katzki.de/photos/2025/nationalpark-thy)
 - [Hurup Thy](https://robert.katzki.de/photos/2025/hurup-thy)
 - [Decorated](https://robert.katzki.de/photos/2025/decorated)
 - [Versalzen](https://robert.katzki.de/photos/2025/versalzen)
 - [At the lake](https://robert.katzki.de/photos/2025/at-the-lake)
-- [Blue Door](https://robert.katzki.de/photos/2025/blue-door)
 <!-- BLOG-POST-LIST:END -->
