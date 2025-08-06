@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [San Vincente](https://robert.katzki.de/photos/2025/san-vincente)
+- [Good practices from pixels to systems](https://robert.katzki.de/posts/good-practices-from-pixels-to-systems)
 - [Ribe](https://robert.katzki.de/photos/2025/ribe)
 - [Lodbjerg Sande](https://robert.katzki.de/photos/2025/lodbjerg-sande)
 - [Nationalpark Thy](https://robert.katzki.de/photos/2025/nationalpark-thy)
-- [Hurup Thy](https://robert.katzki.de/photos/2025/hurup-thy)
-- [Decorated](https://robert.katzki.de/photos/2025/decorated)
 <!-- BLOG-POST-LIST:END -->
