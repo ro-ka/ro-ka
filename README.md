@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Mini Dunes](https://robert.katzki.de/photos/2025/mini-dunes)
 - [Lonely Palm Tree](https://robert.katzki.de/photos/2025/lonely-palm-tree)
 - [Comillas](https://robert.katzki.de/photos/2025/comillas)
 - [Oyambre](https://robert.katzki.de/photos/2025/oyambre)
 - [Lizard World](https://robert.katzki.de/photos/2025/lizard-world)
-- [Roka goes Linux](https://robert.katzki.de/posts/roka-goes-linux)
 <!-- BLOG-POST-LIST:END -->
