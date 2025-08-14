@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Red on Green](https://robert.katzki.de/photos/2025/red-on-green)
 - [Mysteries of the Night](https://robert.katzki.de/photos/2025/mysteries-of-the-night)
 - [Mini Dunes](https://robert.katzki.de/photos/2025/mini-dunes)
 - [Lonely Palm Tree](https://robert.katzki.de/photos/2025/lonely-palm-tree)
 - [Comillas](https://robert.katzki.de/photos/2025/comillas)
-- [Oyambre](https://robert.katzki.de/photos/2025/oyambre)
 <!-- BLOG-POST-LIST:END -->
