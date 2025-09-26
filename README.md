@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Calais](https://robert.katzki.de/photos/2025/calais)
 - [The Hut](https://robert.katzki.de/photos/2025/the-hut)
 - [Kinderdijk](https://robert.katzki.de/photos/2025/kinderdijk)
 - [Crossing Harz](https://robert.katzki.de/photos/2025/crossing-harz)
 - [Harvest season](https://robert.katzki.de/photos/2025/harvest-season)
-- [Bilbao](https://robert.katzki.de/photos/2025/bilbao)
 <!-- BLOG-POST-LIST:END -->
