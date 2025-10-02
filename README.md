@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Stonehenge](https://robert.katzki.de/photos/2025/stonehenge)
 - [Dover](https://robert.katzki.de/photos/2025/dover)
 - [Calais](https://robert.katzki.de/photos/2025/calais)
 - [The Hut](https://robert.katzki.de/photos/2025/the-hut)
 - [Kinderdijk](https://robert.katzki.de/photos/2025/kinderdijk)
-- [Crossing Harz](https://robert.katzki.de/photos/2025/crossing-harz)
 <!-- BLOG-POST-LIST:END -->
