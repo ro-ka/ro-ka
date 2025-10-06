@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Porthleven](https://robert.katzki.de/photos/2025/porthleven)
 - [South West Coast Path](https://robert.katzki.de/photos/2025/south-west-coast-path)
 - [Stonehenge](https://robert.katzki.de/photos/2025/stonehenge)
 - [Dover](https://robert.katzki.de/photos/2025/dover)
 - [Calais](https://robert.katzki.de/photos/2025/calais)
-- [The Hut](https://robert.katzki.de/photos/2025/the-hut)
 <!-- BLOG-POST-LIST:END -->
