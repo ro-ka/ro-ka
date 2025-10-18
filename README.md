@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [St. Michaels](https://robert.katzki.de/photos/2025/st-michaels)
 - [Land’s End](https://robert.katzki.de/photos/2025/land-s-end)
 - [The Beach](https://robert.katzki.de/photos/2025/the-beach)
 - [Church &amp; Graveyard](https://robert.katzki.de/photos/2025/church-graveyard)
 - [Outlook](https://robert.katzki.de/photos/2025/outlook)
-- [Porthleven](https://robert.katzki.de/photos/2025/porthleven)
 <!-- BLOG-POST-LIST:END -->
