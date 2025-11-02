@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Mushrooms](https://robert.katzki.de/photos/2025/mushrooms)
 - [Umbrellas](https://robert.katzki.de/photos/2025/umbrellas)
 - [Dartmouth](https://robert.katzki.de/photos/2025/dartmouth)
 - [Dartmoor](https://robert.katzki.de/photos/2025/dartmoor)
 - [Bantham Beach](https://robert.katzki.de/photos/2025/bantham-beach)
-- [British Garden](https://robert.katzki.de/photos/2025/british-garden)
 <!-- BLOG-POST-LIST:END -->
