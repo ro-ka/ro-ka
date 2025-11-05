@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Hiking Harz](https://robert.katzki.de/photos/2025/hiking-harz)
 - [Awesome Autumn](https://robert.katzki.de/photos/2025/awesome-autumn)
 - [Mushrooms](https://robert.katzki.de/photos/2025/mushrooms)
 - [Umbrellas](https://robert.katzki.de/photos/2025/umbrellas)
 - [Dartmouth](https://robert.katzki.de/photos/2025/dartmouth)
-- [Dartmoor](https://robert.katzki.de/photos/2025/dartmoor)
 <!-- BLOG-POST-LIST:END -->
