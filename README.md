@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Nordic Winter](https://robert.katzki.de/photos/2026/nordic-winter)
 - [White Forest](https://robert.katzki.de/photos/2026/white-forest)
 - [Foggy Hamburg](https://robert.katzki.de/photos/2026/foggy-hamburg)
 - [Grass](https://robert.katzki.de/photos/2025/grass)
 - [Halle &lpar;Saale&rpar;](https://robert.katzki.de/photos/2025/halle-saale)
-- [Hiking Harz](https://robert.katzki.de/photos/2025/hiking-harz)
 <!-- BLOG-POST-LIST:END -->
