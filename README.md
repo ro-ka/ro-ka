@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Stickerman’s Friend](https://robert.katzki.de/photos/2026/stickerman-s-friend)
 - [Alsterperle](https://robert.katzki.de/photos/2026/alsterperle)
 - [Frozen](https://robert.katzki.de/photos/2026/frozen)
 - [Snow City](https://robert.katzki.de/photos/2026/snow-city)
 - [Nordic Winter](https://robert.katzki.de/photos/2026/nordic-winter)
-- [White Forest](https://robert.katzki.de/photos/2026/white-forest)
 <!-- BLOG-POST-LIST:END -->
