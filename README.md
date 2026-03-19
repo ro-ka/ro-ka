@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Handrail](https://robert.katzki.de/photos/2026/handrail)
 - [Spider City](https://robert.katzki.de/photos/2026/spider-city)
 - [Waiting for the &lpar;t&rpar;rain](https://robert.katzki.de/photos/2026/waiting-for-the-t-rain)
 - [St. Anton](https://robert.katzki.de/photos/2026/st-anton)
 - [Making sounds](https://robert.katzki.de/posts/making-sounds)
-- [Power](https://robert.katzki.de/photos/2026/power)
 <!-- BLOG-POST-LIST:END -->
