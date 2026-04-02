@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Watching Birds and Cranes](https://robert.katzki.de/photos/2026/watching-birds-and-cranes)
 - [First Blossom](https://robert.katzki.de/photos/2026/first-blossom)
 - [Handrail](https://robert.katzki.de/photos/2026/handrail)
 - [Spider City](https://robert.katzki.de/photos/2026/spider-city)
 - [Waiting for the &lpar;t&rpar;rain](https://robert.katzki.de/photos/2026/waiting-for-the-t-rain)
-- [St. Anton](https://robert.katzki.de/photos/2026/st-anton)
 <!-- BLOG-POST-LIST:END -->
