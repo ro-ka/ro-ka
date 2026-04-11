@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Cracked](https://robert.katzki.de/photos/2026/cracked)
 - [Tach!](https://robert.katzki.de/photos/2026/tach)
 - [Watching Birds and Cranes](https://robert.katzki.de/photos/2026/watching-birds-and-cranes)
 - [First Blossom](https://robert.katzki.de/photos/2026/first-blossom)
 - [Handrail](https://robert.katzki.de/photos/2026/handrail)
-- [Spider City](https://robert.katzki.de/photos/2026/spider-city)
 <!-- BLOG-POST-LIST:END -->
