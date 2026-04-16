@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Good Morning](https://robert.katzki.de/photos/2026/good-morning)
 - [Root](https://robert.katzki.de/photos/2026/root)
 - [Violet](https://robert.katzki.de/photos/2026/violet)
 - [Cracked](https://robert.katzki.de/photos/2026/cracked)
 - [Tach!](https://robert.katzki.de/photos/2026/tach)
-- [Watching Birds and Cranes](https://robert.katzki.de/photos/2026/watching-birds-and-cranes)
 <!-- BLOG-POST-LIST:END -->
