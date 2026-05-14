@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Palmengarten](https://robert.katzki.de/photos/2026/palmengarten)
 - [Neustadt](https://robert.katzki.de/photos/2026/neustadt)
 - [Lookout](https://robert.katzki.de/photos/2026/lookout)
 - [Trying to escape](https://robert.katzki.de/photos/2026/trying-to-escape)
 - [Colors of Spring](https://robert.katzki.de/photos/2026/colors-of-spring)
-- [AI in your app, or your app in AI?](https://robert.katzki.de/posts/ai-in-your-app-or-your-app-in-ai)
 <!-- BLOG-POST-LIST:END -->
