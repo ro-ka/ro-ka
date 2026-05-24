@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Saltum Beach](https://robert.katzki.de/photos/2026/saltum-beach)
 - [Dead Fish](https://robert.katzki.de/photos/2026/dead-fish)
 - [Early Osnabrück](https://robert.katzki.de/photos/2026/early-osnabruck)
 - [Metro Architecture](https://robert.katzki.de/photos/2026/metro-architecture)
 - [Palmengarten](https://robert.katzki.de/photos/2026/palmengarten)
-- [Neustadt](https://robert.katzki.de/photos/2026/neustadt)
 <!-- BLOG-POST-LIST:END -->
