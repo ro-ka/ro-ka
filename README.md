@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Please Write Me](https://robert.katzki.de/photos/2026/please-write-me)
 - [Coast &amp; Trail Ride](https://robert.katzki.de/photos/2026/coast-trail-ride)
 - [Bird House](https://robert.katzki.de/photos/2026/bird-house)
 - [North Sea Sunset](https://robert.katzki.de/photos/2026/north-sea-sunset)
 - [Skagen](https://robert.katzki.de/photos/2026/skagen)
-- [Saltum Beach](https://robert.katzki.de/photos/2026/saltum-beach)
 <!-- BLOG-POST-LIST:END -->
