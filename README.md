@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Holland Amerika Lijn](https://robert.katzki.de/photos/2026/holland-amerika-lijn)
 - [Impressions of Rotterdam](https://robert.katzki.de/photos/2026/impressions-of-rotterdam)
 - [At the Elbe](https://robert.katzki.de/photos/2026/at-the-elbe)
 - [Opening up](https://robert.katzki.de/photos/2026/opening-up)
 - [Please Write Me](https://robert.katzki.de/photos/2026/please-write-me)
-- [Coast &amp; Trail Ride](https://robert.katzki.de/photos/2026/coast-trail-ride)
 <!-- BLOG-POST-LIST:END -->
