@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [FENIX](https://robert.katzki.de/photos/2026/fenix)
 - [Escape](https://robert.katzki.de/photos/2026/escape)
 - [Markthal](https://robert.katzki.de/photos/2026/markthal)
 - [Cubes](https://robert.katzki.de/photos/2026/cubes)
 - [Disco Time](https://robert.katzki.de/photos/2026/disco-time)
-- [Holland Amerika Lijn](https://robert.katzki.de/photos/2026/holland-amerika-lijn)
 <!-- BLOG-POST-LIST:END -->
