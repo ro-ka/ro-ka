@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Pitigliano](https://robert.katzki.de/photos/2026/pitigliano)
 - [Bolsena](https://robert.katzki.de/photos/2026/bolsena)
 - [Lago di Bolsena](https://robert.katzki.de/photos/2026/lago-di-bolsena)
 - [AI Economics for Dummies](https://robert.katzki.de/posts/ai-economics-for-dummies)
 - [Railroad](https://robert.katzki.de/photos/2026/railroad)
-- [Cornhole](https://robert.katzki.de/photos/2026/cornhole)
 <!-- BLOG-POST-LIST:END -->
