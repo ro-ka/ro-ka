@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Marta](https://robert.katzki.de/photos/2026/marta)
 - [Civita di Bagnoregio](https://robert.katzki.de/photos/2026/civita-di-bagnoregio)
 - [Orvieto](https://robert.katzki.de/photos/2026/orvieto)
 - [Pitigliano](https://robert.katzki.de/photos/2026/pitigliano)
 - [Bolsena](https://robert.katzki.de/photos/2026/bolsena)
-- [Lago di Bolsena](https://robert.katzki.de/photos/2026/lago-di-bolsena)
 <!-- BLOG-POST-LIST:END -->
