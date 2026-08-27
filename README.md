@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Ober&rpar;Bozen](https://robert.katzki.de/photos/2026/ober-bozen)
 - [Lago di Caldaro](https://robert.katzki.de/photos/2026/lago-di-caldaro)
 - [Vatican City](https://robert.katzki.de/photos/2026/vatican-city)
 - [Rome – Historical Sites](https://robert.katzki.de/photos/2026/rome-historical-sites)
 - [Rome – City](https://robert.katzki.de/photos/2026/rome-city)
-- [Snack time](https://robert.katzki.de/photos/2026/snack-time)
 <!-- BLOG-POST-LIST:END -->
