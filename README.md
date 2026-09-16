@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Bridge and Tunnel](https://robert.katzki.de/photos/2026/bridge-and-tunnel)
+- [High Voltage](https://robert.katzki.de/photos/2026/high-voltage)
 - [Decorated trees](https://robert.katzki.de/photos/2026/decorated-trees)
 - [On the fly](https://robert.katzki.de/photos/2026/on-the-fly)
 - [Downtown Hamburg](https://robert.katzki.de/photos/2026/downtown-hamburg)
-- [Knorke](https://robert.katzki.de/photos/2026/knorke)
-- [Hole in five](https://robert.katzki.de/photos/2026/hole-in-five)
 <!-- BLOG-POST-LIST:END -->
