@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Fundbureau](https://robert.katzki.de/photos/2026/fundbureau)
 - [280](https://robert.katzki.de/photos/2026/280)
 - [Leipzig](https://robert.katzki.de/photos/2026/leipzig)
 - [Bridge and Tunnel](https://robert.katzki.de/photos/2026/bridge-and-tunnel)
 - [High Voltage](https://robert.katzki.de/photos/2026/high-voltage)
-- [Decorated trees](https://robert.katzki.de/photos/2026/decorated-trees)
 <!-- BLOG-POST-LIST:END -->
