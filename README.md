@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Broken Dreams](https://robert.katzki.de/photos/2026/broken-dreams)
+- [Reeperbahn](https://robert.katzki.de/photos/2026/reeperbahn)
 - [Sprayed](https://robert.katzki.de/photos/2026/sprayed)
 - [Fundbureau](https://robert.katzki.de/photos/2026/fundbureau)
 - [280](https://robert.katzki.de/photos/2026/280)
-- [Leipzig](https://robert.katzki.de/photos/2026/leipzig)
-- [Bridge and Tunnel](https://robert.katzki.de/photos/2026/bridge-and-tunnel)
 <!-- BLOG-POST-LIST:END -->
