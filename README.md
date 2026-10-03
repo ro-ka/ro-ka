@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Rainbow](https://robert.katzki.de/photos/2026/rainbow)
 - [Morning View](https://robert.katzki.de/photos/2026/morning-view)
 - [Broken Dreams](https://robert.katzki.de/photos/2026/broken-dreams)
 - [Reeperbahn](https://robert.katzki.de/photos/2026/reeperbahn)
 - [Sprayed](https://robert.katzki.de/photos/2026/sprayed)
-- [Fundbureau](https://robert.katzki.de/photos/2026/fundbureau)
 <!-- BLOG-POST-LIST:END -->
