@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [After the Rain](https://robert.katzki.de/photos/2026/after-the-rain)
+- [Metro Entrance](https://robert.katzki.de/photos/2026/metro-entrance)
 - [Osnabrück](https://robert.katzki.de/photos/2026/osnabruck)
 - [So Lonely](https://robert.katzki.de/photos/2026/so-lonely)
 - [Rainy Sunday at the Alster](https://robert.katzki.de/photos/2026/rainy-sunday-at-the-alster)
-- [Rainbow](https://robert.katzki.de/photos/2026/rainbow)
-- [Morning View](https://robert.katzki.de/photos/2026/morning-view)
 <!-- BLOG-POST-LIST:END -->
