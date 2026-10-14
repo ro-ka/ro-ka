@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [To the sky](https://robert.katzki.de/photos/2026/to-the-sky)
 - [Public Transport](https://robert.katzki.de/photos/2026/public-transport)
 - [Where did this budget appear?](https://robert.katzki.de/posts/where-did-this-budget-appear)
 - [After the Rain](https://robert.katzki.de/photos/2026/after-the-rain)
 - [Metro Entrance](https://robert.katzki.de/photos/2026/metro-entrance)
-- [Osnabrück](https://robert.katzki.de/photos/2026/osnabruck)
 <!-- BLOG-POST-LIST:END -->
