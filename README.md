@@ -17,9 +17,9 @@
 
 I have a blog at [robert.katzki.de](https://robert.katzki.de/) and this is my latest activity:
 <!-- BLOG-POST-LIST:START -->
+- [Fire truck](https://robert.katzki.de/photos/2026/fire-truck)
 - [Swing](https://robert.katzki.de/photos/2026/swing)
 - [Morning fog](https://robert.katzki.de/photos/2026/morning-fog)
 - [Korbach](https://robert.katzki.de/photos/2026/korbach)
 - [Hamburg Drift](https://robert.katzki.de/photos/2026/hamburg-drift)
-- [Hochbahn](https://robert.katzki.de/photos/2026/hochbahn)
 <!-- BLOG-POST-LIST:END -->
